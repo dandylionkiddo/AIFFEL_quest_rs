@@ -1,25 +1,36 @@
 # Aiffel_quest_cr
 ```
 AIFFEL_quest_cr
-├── MainQuest
-│   ├── Quest01
+├── Exploration
+│   ├── Ex01
 │   │   ├── .ipynb
 │   │   └── README.md
 .   .
 .   .
 .   .
-│   └── Quest08
+│   └── Ex07
 │       ├── .ipynb
 │       └── README.md
-.
-.
-.
-└── Exploration
-    ├── Ex01
+│
+│
+├── GoingDeeper 
+│   ├── Go01
+│   │   ├── .ipynb
+│   │   └── README.md
+.   .
+.   .
+.   .
+│   └── Go18
+│       ├── .ipynb
+│       └── README.md
+│
+│
+└── MainQuest
+    ├── Quest01
     .
     .
     .
-    └── Ex07
+    └── Quest05
         ├── .ipynb
         └── README.md
 ```
