@@ -7,6 +7,7 @@
 - [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 네
     - 코드의 마지막에 한국어 대화가 가능함을 보였다.
+
 ![image](https://github.com/user-attachments/assets/f9050cfe-0c12-43c8-bfee-06b3f85b5a50)
 
     
@@ -14,6 +15,7 @@
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
     - 네
     - 모델에 early stopping, 학습률 감소 콜백 추가한 부분에 주석이 이해를 도왔다.
+     
 <img width="737" alt="image" src="https://github.com/user-attachments/assets/ee2bde0b-08ef-43e7-a704-6a996ed6b7c4" />
 
         
@@ -28,13 +30,16 @@
         - weight decay 추가
         - early stopping 적용
         - 형태소 분석기 사용
+     
 ![image](https://github.com/user-attachments/assets/540df620-6e18-4610-9fa4-0196be214993)
+
 ![image](https://github.com/user-attachments/assets/9c9f43b3-ce0b-4afa-986f-2ad23c83ce05)
 
         
 - [ ]  **4. 회고를 잘 작성했나요?**
     - 네
     - 실험 결과가 좋았던 부분과 개선사항을 작성했다.
+
 ![image](https://github.com/user-attachments/assets/6d0d367b-ae32-4c83-b126-ae45f61b5900)
 
         
